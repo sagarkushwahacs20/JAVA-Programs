@@ -1,0 +1,45 @@
+
+                                OOPS---------Concept
+
+
+                       Object Oriented Programming Strcture
+feature :
+           -Abstraction
+                      -Focus on the essential part that is called abstraction
+           -Encapsulation
+                      -hidding of the non essential details that is called encapsulation 
+           -Polymorphism
+                      -One thing many form's that is called Polymorphism
+           -Inheritance
+                      -When a generation use the features of another generation that is 
+                       called inheritance
+                              OR
+                     -When a class use the properties of another class that is called 
+                      inheritance
+
+              class
+
+                    -Collection of different kind of entity that is called class
+        
+         
+              object
+                    -its instance of a class or refrence of a class
+             
+              function/properties/method 
+                     -set of instruction's that is callled function
+
+              Variable
+                     - such as a container which hold either data or values
+
+              Keyword
+                    -which words having a reserve meaning that is called keyword
+
+        
+       
+        
+ 
+       
+                    
+
+
+
